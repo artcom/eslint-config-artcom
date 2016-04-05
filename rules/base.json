@@ -1,13 +1,13 @@
 {
   "rules": {
-    "comma-dangle": [2, "never"],
-    "consistent-return": 0,
-    "default-case": 0,
-    "no-else-return": 0,
-    "no-use-before-define": [2, {
+    "comma-dangle": ["error", "never"],
+    "consistent-return": "off",
+    "default-case": "off",
+    "no-else-return": "off",
+    "no-use-before-define": ["error", {
       "functions": false
     }],
-    "quotes": [2, "double"],
-    "semi": [2, "never"]
+    "quotes": ["error", "double"],
+    "semi": ["error", "never"]
   }
 }
