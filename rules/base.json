@@ -4,6 +4,7 @@
     "consistent-return": "off",
     "default-case": "off",
     "no-else-return": "off",
+    "no-shadow": "off",
     "no-use-before-define": ["error", {
       "functions": false
     }],
