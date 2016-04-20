@@ -1,8 +1,8 @@
 module.exports = {
-  "env": {
+  env: {
     "mocha": true
   },
-  "rules": {
+  rules: {
     "func-names": "off",
     "no-unused-expressions": "off",
     "prefer-arrow-callback": "off",

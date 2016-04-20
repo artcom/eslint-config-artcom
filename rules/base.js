@@ -1,5 +1,5 @@
 module.exports = {
-  "rules": {
+  rules: {
     "comma-dangle": ["error", "never"],
     "consistent-return": "off",
     "default-case": "off",
