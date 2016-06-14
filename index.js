@@ -15,6 +15,12 @@ module.exports = {
   plugins: [
     "import"
   ],
+  settings: {
+    "import/ignore": [
+      "node_modules",
+      "\.(coffee|scss|less|css|json)$"
+    ]
+  },
   rules: {
     "array-bracket-spacing": 2,
     "array-callback-return": 2,
