@@ -18,7 +18,7 @@ module.exports = {
   settings: {
     "import/ignore": [
       "node_modules",
-      "\.(coffee|scss|less|css|json)$"
+      "\\.json$"
     ]
   },
   rules: {
