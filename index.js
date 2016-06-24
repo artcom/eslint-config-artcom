@@ -103,7 +103,7 @@ module.exports = {
     "prefer-rest-params": 2,
     "prefer-template": 2,
     "quote-props": [2, "consistent-as-needed"],
-    "quotes": 2,
+    "quotes": [2, "double", { "avoidEscape": true }],
     "radix": 2,
     "semi-spacing": 2,
     "semi": [2, "never"],
