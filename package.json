@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-artcom",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "ESLint configuration used at ART+COM",
   "repository": "artcom/eslint-config-artcom",
   "main": "index.js",
