@@ -121,7 +121,7 @@ module.exports = {
 
     "import/default": 2,
     "import/export": 2,
-    "import/extensions": [2, { "js": "never" }],
+    "import/extensions": [2, { "js": "never", "json": "always" }],
     "import/imports-first": 2,
     "import/named": 2,
     "import/namespace": 2,
