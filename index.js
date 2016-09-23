@@ -18,7 +18,7 @@ module.exports = {
   settings: {
     "import/ignore": [
       "node_modules",
-      "\\.json$"
+      "\\.(glsl|json)$"
     ]
   },
   rules: {
