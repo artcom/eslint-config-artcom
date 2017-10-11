@@ -108,7 +108,11 @@ module.exports = {
     "semi-spacing": 2,
     "semi": [2, "never"],
     "space-before-blocks": 2,
-    "space-before-function-paren": [2, "never"],
+    "space-before-function-paren": [2, {
+      "anonymous": "never",
+      "named": "never",
+      "asyncArrow": "always"
+    }],
     "space-in-parens": 2,
     "space-infix-ops": 2,
     "spaced-comment": 2,
