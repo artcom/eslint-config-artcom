@@ -84,7 +84,7 @@ module.exports = {
     "no-undefined": 0,
     "no-underscore-dangle": 2,
     "no-unneeded-ternary": [2, { "defaultAssignment": false }],
-    "no-unused-vars": [2, { "vars": "local", "args": "after-used" }],
+    "no-unused-vars": [2, { "vars": "local", "args": "after-used", "ignoreRestSiblings": true }],
     "no-unused-expressions": 2,
     "no-use-before-define": [2, { "functions": false }],
     "no-useless-constructor": 2,
