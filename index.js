@@ -6,11 +6,8 @@ module.exports = {
     es6: true
   },
   parserOptions: {
-    ecmaVersion: 8,
-    sourceType: "module",
-    ecmaFeatures: {
-      "experimentalObjectRestSpread": true
-    }
+    ecmaVersion: 2018,
+    sourceType: "module"
   },
   plugins: [
     "import"
