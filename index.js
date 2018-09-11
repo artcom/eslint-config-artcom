@@ -22,6 +22,7 @@ module.exports = {
     "array-bracket-spacing": 2,
     "array-callback-return": 2,
     "arrow-body-style": 2,
+    "arrow-parens": [2, "as-needed"],
     "arrow-spacing": 2,
     "block-scoped-var": 2,
     "brace-style": [2, "1tbs", { "allowSingleLine": true }],
