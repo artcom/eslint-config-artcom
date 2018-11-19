@@ -39,7 +39,12 @@ module.exports = {
     "jsx-quotes": 2,
     "key-spacing": 2,
     "keyword-spacing": 2,
-    "max-len": [2, 100, 2],
+    "max-len": [2, {
+      "code": 100,
+      "ignoreUrls": true,
+      "ignoreTemplateLiterals": true,
+      "ignoreRegExpLiterals": true
+    }],
     "new-cap": 2,
     "no-alert": 2,
     "no-array-constructor": 2,
