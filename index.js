@@ -80,6 +80,8 @@ module.exports = {
     "no-script-url": 2,
     "no-self-compare": 2,
     "no-sequences": 2,
+    "no-shadow": 2,
+    "no-catch-shadow": 2,
     "no-shadow-restricted-names": 2,
     "no-spaced-func": 2,
     "no-throw-literal": 2,
