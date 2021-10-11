@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": "^7.0.0",
-    "eslint-plugin-import": "^2.20.2"
+    "eslint": "^8.0.0",
+    "eslint-plugin-import": "^2.24.2"
   }
 }
