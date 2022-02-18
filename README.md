@@ -1,10 +1,12 @@
+# Deprecated: This package has been deprecated in favor of standard rules like `eslint:recommended`
+
 # ESLint configurations used at ART+COM
 
 ## Usage
 
-* Install package and peer dependencies: `npm install --save-dev eslint-config-artcom eslint eslint-plugin-import`
-* Pick a configuration
-* Configure ESLint, e.g. using `.eslintrc.json`: `{ "extends": "<config>" }`
+- Install package and peer dependencies: `npm install --save-dev eslint-config-artcom eslint eslint-plugin-import`
+- Pick a configuration
+- Configure ESLint, e.g. using `.eslintrc.json`: `{ "extends": "<config>" }`
 
 ## Configurations
 
